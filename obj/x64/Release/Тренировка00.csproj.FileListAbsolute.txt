@@ -1,0 +1,10 @@
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\bin\x64\Release\Тренировка00.exe.config
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\bin\x64\Release\Тренировка00.exe
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\bin\x64\Release\Тренировка00.pdb
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.csprojAssemblyReference.cache
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.Form1.resources
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.Properties.Resources.resources
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.csproj.GenerateResource.cache
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.csproj.CoreCompileInputs.cache
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.exe
+G:\Проекты по C# оттачиване мастерства по Win Form\Тренировка00\obj\x64\Release\Тренировка00.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тренировка00", "Тренировка00.csproj", "{51594C86-079E-407C-96D9-6B94655EBB45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Debug|x64.ActiveCfg = Release|x64
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Debug|x64.Build.0 = Release|x64
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Release|x64.ActiveCfg = Release|x64
+		{51594C86-079E-407C-96D9-6B94655EBB45}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA965233-2F15-492A-91D6-3D29F99469AB}
+	EndGlobalSection
+EndGlobal
